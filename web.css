@@ -20,8 +20,8 @@
 header {
   background: #ffcd9e;
   display: flex;
-  height: 476px; 
-  width: 1359px;
+  height: 60vh; 
+  width: 89vw;
   justify-content: space-around;
   position: relative;
   /* padding: 30px;  */
@@ -34,8 +34,8 @@ h1 {
   letter-spacing: 0em;
   text-align: left;
   width: 562px;
-  height: 108px;
-  top: 44px;
+  height: 20vh;
+  top: 7vh;
   left: 136px;
   position: absolute;
 }
@@ -45,8 +45,8 @@ h1 {
   height: "200px";
 }
 .right > img {
-  width: 524px;
-  height: 473px;
+  width: 30vw;
+  height: 60vh;
   top: 4px;
   left: 818px;
   padding: 66.39522552490234 89.60975646972656 66.15494537353516
@@ -61,7 +61,7 @@ h1 {
   text-align: left;
   width: 424px;
   height: 81px;
-  top: 156px;
+  top: 22vh;
   left: 136px;
   position: absolute;
   color: #484848;
@@ -74,7 +74,7 @@ h1 {
   text-align: left;
   width: 227px;
   height: 81px;
-  top: 266px;
+  top: 36vh;
   left: 136px;
   position: absolute;
 }
@@ -84,7 +84,7 @@ p {
   color: #ffffff;
   width: 344px;
   height: 61px;
-  top: 401px;
+  top: 50vh;
   left: 134px;
   font-size: 13px;
   font-weight: 500;
@@ -98,7 +98,7 @@ p {
 } */
 .box {
   display: flex;
-  top: 328px; 
+  top: 42vh; 
   width: 512px;
   border-radius: 8px;
   position: absolute;
@@ -136,8 +136,8 @@ footer {
   display: flex;
   color: beige;
   justify-content: space-between;
-  height: 200px;
-  width: 1359px;
+  height: 40vh;
+  width: 89vw;
   /* height: 298px; */
   /* top: 476px;  */
   line-height: 32px;
@@ -152,7 +152,7 @@ ul {
 .top{
     width: 216px;
 height: 36px;
-top: 654px;
+/* top: 654px; */
 left: 191px;
 /* font-family: Inter; */
 font-size: 15px;
@@ -164,13 +164,13 @@ text-align: left;
 } 
 .list-one{
     position: absolute; 
-    left: 211px;
-    top: 32px;
+    left: 16vw;
+    top: 10vh;
 }
 .list-two{
     position: absolute;
-    top: 32px;
-    left: 1030px;
+    top: 10vh;
+    left: 70vw;
     align-items: flex-end;
     display: flex;
     flex-direction: column;
